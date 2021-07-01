@@ -1,0 +1,13 @@
+target/
+/.classpath
+/.project
+/.settings/
+/*/logs/
+.idea/misc.xml
+.idea/workspace.xml
+/.idea/
+*.iml
+logs/
+*.xml.versionsBackup
+.DS_Store
+mybatis-plus-sandbox/
